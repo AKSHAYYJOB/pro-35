@@ -1,2 +1,2 @@
-# pro-35
-virtual pet -1
+# project-virtual
+project35
